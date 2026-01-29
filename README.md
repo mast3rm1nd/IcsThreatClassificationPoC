@@ -99,7 +99,7 @@ dotnet run -- classify-sample --model-path model/threat_classifier.zip
 3. Классифицирует с использованием классического и ML-классификаторов
 4. Выводит сравнительную таблицу с результатами
 
-<img width="799" height="495" alt="Image" src="https://github.com/user-attachments/assets/c45c9731-6f6d-4494-8be9-421aee4a1d93" />
+<img width="1455" height="1213" alt="Image" src="https://github.com/user-attachments/assets/237f8a9d-f659-4d09-a558-01b28a8e0e8b" />
 
 ## Вектор признаков
 
