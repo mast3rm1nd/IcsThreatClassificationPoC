@@ -85,6 +85,8 @@ dotnet run -- generate-and-train --samples 500 --model-path model/threat_classif
 - `--model-path` - путь для сохранения обученной модели (по умолчанию: model/threat_classifier.zip)
 - `--use-gpu` - включить ускорение GPU для обучения (по умолчанию: false)
 
+<img width="799" height="495" alt="Image" src="https://github.com/user-attachments/assets/c2682ff7-eb18-4dc7-9d18-fac9c5dc6c29" />
+
 ### Классификация образцов
 
 ```bash
@@ -96,6 +98,8 @@ dotnet run -- classify-sample --model-path model/threat_classifier.zip
 2. Генерирует тестовые образцы для каждого типа угрозы
 3. Классифицирует с использованием классического и ML-классификаторов
 4. Выводит сравнительную таблицу с результатами
+
+<img width="799" height="495" alt="Image" src="https://github.com/user-attachments/assets/c45c9731-6f6d-4494-8be9-421aee4a1d93" />
 
 ## Вектор признаков
 
