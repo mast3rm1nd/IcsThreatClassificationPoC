@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IcsThreatClassification.App": {
+      "commandName": "Project",
+      "commandLineArgs": "classify-sample"
+    }
+  }
+}

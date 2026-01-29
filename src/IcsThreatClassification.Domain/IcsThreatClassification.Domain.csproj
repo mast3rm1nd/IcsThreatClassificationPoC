@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>IcsThreatClassification.Domain</RootNamespace>
+    <AssemblyName>IcsThreatClassification.Domain</AssemblyName>
+  </PropertyGroup>
+</Project>
